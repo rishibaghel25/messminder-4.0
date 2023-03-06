@@ -22,170 +22,164 @@ Partial Class MESSREPORT
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.Label1 = New System.Windows.Forms.Label()
-        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
-        Me.TextBox1 = New System.Windows.Forms.TextBox()
-        Me.TextBox2 = New System.Windows.Forms.TextBox()
-        Me.TextBox3 = New System.Windows.Forms.TextBox()
-        Me.Label2 = New System.Windows.Forms.Label()
-        Me.Label4 = New System.Windows.Forms.Label()
-        Me.Label5 = New System.Windows.Forms.Label()
-        Me.Panel1 = New System.Windows.Forms.Panel()
-        Me.Label7 = New System.Windows.Forms.Label()
-        Me.Button1 = New System.Windows.Forms.Button()
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
-        Me.Panel1.SuspendLayout()
-        Me.SuspendLayout()
-        '
-        'Label1
-        '
-        Me.Label1.AutoSize = True
-        Me.Label1.BackColor = System.Drawing.Color.White
-        Me.Label1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-        Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label1.ForeColor = System.Drawing.Color.Black
-        Me.Label1.Location = New System.Drawing.Point(165, 52)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(298, 38)
-        Me.Label1.TabIndex = 0
-        Me.Label1.Text = "MONTHLY RECORD"
-        '
-        'DataGridView1
-        '
-        Me.DataGridView1.BackgroundColor = System.Drawing.Color.White
-        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView1.Location = New System.Drawing.Point(12, 108)
-        Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.RowHeadersWidth = 51
-        Me.DataGridView1.RowTemplate.Height = 29
-        Me.DataGridView1.Size = New System.Drawing.Size(605, 389)
-        Me.DataGridView1.TabIndex = 24
-        '
-        'TextBox1
-        '
-        Me.TextBox1.BackColor = System.Drawing.Color.FromArgb(CType(CType(106, Byte), Integer), CType(CType(242, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.TextBox1.Location = New System.Drawing.Point(243, 231)
-        Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(209, 27)
-        Me.TextBox1.TabIndex = 25
-        '
-        'TextBox2
-        '
-        Me.TextBox2.BackColor = System.Drawing.Color.FromArgb(CType(CType(106, Byte), Integer), CType(CType(242, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.TextBox2.Location = New System.Drawing.Point(866, 285)
-        Me.TextBox2.Name = "TextBox2"
-        Me.TextBox2.Size = New System.Drawing.Size(209, 27)
-        Me.TextBox2.TabIndex = 26
-        '
-        'TextBox3
-        '
-        Me.TextBox3.BackColor = System.Drawing.Color.FromArgb(CType(CType(106, Byte), Integer), CType(CType(242, Byte), Integer), CType(CType(255, Byte), Integer))
-        Me.TextBox3.Location = New System.Drawing.Point(243, 340)
-        Me.TextBox3.Name = "TextBox3"
-        Me.TextBox3.Size = New System.Drawing.Size(209, 27)
-        Me.TextBox3.TabIndex = 27
-        '
-        'Label2
-        '
-        Me.Label2.AutoSize = True
-        Me.Label2.BackColor = System.Drawing.Color.White
-        Me.Label2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label2.ForeColor = System.Drawing.Color.Black
-        Me.Label2.Location = New System.Drawing.Point(94, 227)
-        Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(130, 31)
-        Me.Label2.TabIndex = 28
-        Me.Label2.Text = "EXPENSE"
-        '
-        'Label4
-        '
-        Me.Label4.AutoSize = True
-        Me.Label4.BackColor = System.Drawing.Color.White
-        Me.Label4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label4.ForeColor = System.Drawing.Color.Black
-        Me.Label4.Location = New System.Drawing.Point(94, 336)
-        Me.Label4.Name = "Label4"
-        Me.Label4.Padding = New System.Windows.Forms.Padding(12, 0, 12, 0)
-        Me.Label4.Size = New System.Drawing.Size(128, 31)
-        Me.Label4.TabIndex = 30
-        Me.Label4.Text = "PROFIT"
-        '
-        'Label5
-        '
-        Me.Label5.AutoSize = True
-        Me.Label5.BackColor = System.Drawing.Color.White
-        Me.Label5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 13.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label5.ForeColor = System.Drawing.Color.Black
-        Me.Label5.Location = New System.Drawing.Point(109, 281)
-        Me.Label5.Name = "Label5"
-        Me.Label5.Padding = New System.Windows.Forms.Padding(12, 0, 12, 0)
-        Me.Label5.Size = New System.Drawing.Size(115, 31)
-        Me.Label5.TabIndex = 31
-        Me.Label5.Text = "SALES"
-        '
-        'Panel1
-        '
-        Me.Panel1.BackColor = System.Drawing.Color.White
-        Me.Panel1.Controls.Add(Me.Label5)
-        Me.Panel1.Controls.Add(Me.TextBox1)
-        Me.Panel1.Controls.Add(Me.Label7)
-        Me.Panel1.Controls.Add(Me.Label2)
-        Me.Panel1.Controls.Add(Me.TextBox3)
-        Me.Panel1.Controls.Add(Me.Label4)
-        Me.Panel1.Location = New System.Drawing.Point(623, 0)
-        Me.Panel1.Name = "Panel1"
-        Me.Panel1.Size = New System.Drawing.Size(531, 559)
-        Me.Panel1.TabIndex = 32
-        '
-        'Label7
-        '
-        Me.Label7.AutoSize = True
-        Me.Label7.BackColor = System.Drawing.Color.Tomato
-        Me.Label7.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-        Me.Label7.Font = New System.Drawing.Font("Leelawadee UI", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label7.ForeColor = System.Drawing.Color.White
-        Me.Label7.Location = New System.Drawing.Point(473, 9)
-        Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(36, 40)
-        Me.Label7.TabIndex = 63
-        Me.Label7.Text = "X"
-        '
-        'Button1
-        '
-        Me.Button1.BackColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(143, Byte), Integer), CType(CType(204, Byte), Integer))
-        Me.Button1.Cursor = System.Windows.Forms.Cursors.Hand
-        Me.Button1.Font = New System.Drawing.Font("Segoe UI", 11.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Button1.ForeColor = System.Drawing.Color.White
-        Me.Button1.Location = New System.Drawing.Point(12, 9)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(120, 40)
-        Me.Button1.TabIndex = 33
-        Me.Button1.Text = "BACK"
-        Me.Button1.UseVisualStyleBackColor = False
-        '
-        'MESSREPORT
-        '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 20.0!)
-        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.BackColor = System.Drawing.Color.DeepSkyBlue
-        Me.ClientSize = New System.Drawing.Size(1144, 555)
-        Me.Controls.Add(Me.Button1)
-        Me.Controls.Add(Me.TextBox2)
-        Me.Controls.Add(Me.DataGridView1)
-        Me.Controls.Add(Me.Label1)
-        Me.Controls.Add(Me.Panel1)
-        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
-        Me.Name = "MESSREPORT"
-        Me.Text = "MESSREPORT"
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
-        Me.Panel1.ResumeLayout(False)
-        Me.Panel1.PerformLayout()
-        Me.ResumeLayout(False)
-        Me.PerformLayout()
-
+        Label1 = New Label()
+        DataGridView1 = New DataGridView()
+        TextBox1 = New TextBox()
+        TextBox2 = New TextBox()
+        TextBox3 = New TextBox()
+        Label2 = New Label()
+        Label4 = New Label()
+        Label5 = New Label()
+        Panel1 = New Panel()
+        Label7 = New Label()
+        Button1 = New Button()
+        CType(DataGridView1, ComponentModel.ISupportInitialize).BeginInit()
+        Panel1.SuspendLayout()
+        SuspendLayout()
+        ' 
+        ' Label1
+        ' 
+        Label1.AutoSize = True
+        Label1.BackColor = Color.White
+        Label1.BorderStyle = BorderStyle.Fixed3D
+        Label1.Font = New Font("Microsoft Sans Serif", 18F, FontStyle.Regular, GraphicsUnit.Point)
+        Label1.ForeColor = Color.Black
+        Label1.Location = New Point(165, 52)
+        Label1.Name = "Label1"
+        Label1.Size = New Size(298, 38)
+        Label1.TabIndex = 0
+        Label1.Text = "MONTHLY RECORD"' 
+        ' DataGridView1
+        ' 
+        DataGridView1.BackgroundColor = Color.White
+        DataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        DataGridView1.Location = New Point(12, 108)
+        DataGridView1.Name = "DataGridView1"
+        DataGridView1.RowHeadersWidth = 51
+        DataGridView1.RowTemplate.Height = 29
+        DataGridView1.Size = New Size(605, 389)
+        DataGridView1.TabIndex = 24
+        ' 
+        ' TextBox1
+        ' 
+        TextBox1.BackColor = Color.FromArgb(CByte(106), CByte(242), CByte(255))
+        TextBox1.Location = New Point(243, 231)
+        TextBox1.Name = "TextBox1"
+        TextBox1.Size = New Size(209, 27)
+        TextBox1.TabIndex = 25
+        ' 
+        ' TextBox2
+        ' 
+        TextBox2.BackColor = Color.FromArgb(CByte(106), CByte(242), CByte(255))
+        TextBox2.Location = New Point(866, 285)
+        TextBox2.Name = "TextBox2"
+        TextBox2.Size = New Size(209, 27)
+        TextBox2.TabIndex = 26
+        ' 
+        ' TextBox3
+        ' 
+        TextBox3.BackColor = Color.FromArgb(CByte(106), CByte(242), CByte(255))
+        TextBox3.Location = New Point(243, 340)
+        TextBox3.Name = "TextBox3"
+        TextBox3.Size = New Size(209, 27)
+        TextBox3.TabIndex = 27
+        ' 
+        ' Label2
+        ' 
+        Label2.AutoSize = True
+        Label2.BackColor = Color.White
+        Label2.BorderStyle = BorderStyle.FixedSingle
+        Label2.Font = New Font("Microsoft Sans Serif", 13.8F, FontStyle.Regular, GraphicsUnit.Point)
+        Label2.ForeColor = Color.Black
+        Label2.Location = New Point(94, 227)
+        Label2.Name = "Label2"
+        Label2.Size = New Size(130, 31)
+        Label2.TabIndex = 28
+        Label2.Text = "EXPENSE"' 
+        ' Label4
+        ' 
+        Label4.AutoSize = True
+        Label4.BackColor = Color.White
+        Label4.BorderStyle = BorderStyle.FixedSingle
+        Label4.Font = New Font("Microsoft Sans Serif", 13.8F, FontStyle.Regular, GraphicsUnit.Point)
+        Label4.ForeColor = Color.Black
+        Label4.Location = New Point(94, 336)
+        Label4.Name = "Label4"
+        Label4.Padding = New Padding(12, 0, 12, 0)
+        Label4.Size = New Size(128, 31)
+        Label4.TabIndex = 30
+        Label4.Text = "PROFIT"' 
+        ' Label5
+        ' 
+        Label5.AutoSize = True
+        Label5.BackColor = Color.White
+        Label5.BorderStyle = BorderStyle.FixedSingle
+        Label5.Font = New Font("Microsoft Sans Serif", 13.8F, FontStyle.Regular, GraphicsUnit.Point)
+        Label5.ForeColor = Color.Black
+        Label5.Location = New Point(109, 281)
+        Label5.Name = "Label5"
+        Label5.Padding = New Padding(12, 0, 12, 0)
+        Label5.Size = New Size(115, 31)
+        Label5.TabIndex = 31
+        Label5.Text = "SALES"' 
+        ' Panel1
+        ' 
+        Panel1.BackColor = Color.White
+        Panel1.Controls.Add(Label5)
+        Panel1.Controls.Add(TextBox1)
+        Panel1.Controls.Add(Label7)
+        Panel1.Controls.Add(Label2)
+        Panel1.Controls.Add(TextBox3)
+        Panel1.Controls.Add(Label4)
+        Panel1.Location = New Point(623, 0)
+        Panel1.Name = "Panel1"
+        Panel1.Size = New Size(531, 559)
+        Panel1.TabIndex = 32
+        ' 
+        ' Label7
+        ' 
+        Label7.AutoSize = True
+        Label7.BackColor = Color.Tomato
+        Label7.BorderStyle = BorderStyle.Fixed3D
+        Label7.Font = New Font("Leelawadee UI", 16.2F, FontStyle.Regular, GraphicsUnit.Point)
+        Label7.ForeColor = Color.White
+        Label7.Location = New Point(473, 9)
+        Label7.Name = "Label7"
+        Label7.Size = New Size(36, 40)
+        Label7.TabIndex = 63
+        Label7.Text = "X"' 
+        ' Button1
+        ' 
+        Button1.BackColor = Color.FromArgb(CByte(0), CByte(143), CByte(204))
+        Button1.Cursor = Cursors.Hand
+        Button1.Font = New Font("Segoe UI", 11F, FontStyle.Regular, GraphicsUnit.Point)
+        Button1.ForeColor = Color.White
+        Button1.Location = New Point(12, 9)
+        Button1.Name = "Button1"
+        Button1.Size = New Size(120, 40)
+        Button1.TabIndex = 33
+        Button1.Text = "BACK"
+        Button1.UseVisualStyleBackColor = False
+        ' 
+        ' MESSREPORT
+        ' 
+        AutoScaleDimensions = New SizeF(8F, 20F)
+        AutoScaleMode = AutoScaleMode.Font
+        BackColor = Color.DeepSkyBlue
+        ClientSize = New Size(1144, 555)
+        Controls.Add(Button1)
+        Controls.Add(TextBox2)
+        Controls.Add(DataGridView1)
+        Controls.Add(Label1)
+        Controls.Add(Panel1)
+        FormBorderStyle = FormBorderStyle.None
+        Name = "MESSREPORT"
+        Text = "MESSREPORT"
+        CType(DataGridView1, ComponentModel.ISupportInitialize).EndInit()
+        Panel1.ResumeLayout(False)
+        Panel1.PerformLayout()
+        ResumeLayout(False)
+        PerformLayout()
     End Sub
 
     Friend WithEvents Label1 As Label
