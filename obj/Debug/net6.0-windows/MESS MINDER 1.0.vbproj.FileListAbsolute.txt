@@ -1,0 +1,157 @@
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS MINDER 1.0.vbproj.AssemblyReference.cache
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS MINDER 1.0.vbproj.GenerateResource.cache
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS MINDER 1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS MINDER 1.0.AssemblyInfoInputs.cache
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS MINDER 1.0.AssemblyInfo.vb
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS MINDER 1.0.vbproj.CoreCompileInputs.cache
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.LOGIN.resources
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.SIGN_UP.resources
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\bin\Debug\net6.0-windows\MESS MINDER 1.0.exe
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\bin\Debug\net6.0-windows\MESS MINDER 1.0.deps.json
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\bin\Debug\net6.0-windows\MESS MINDER 1.0.runtimeconfig.json
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\bin\Debug\net6.0-windows\MESS MINDER 1.0.dll
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\bin\Debug\net6.0-windows\MESS MINDER 1.0.pdb
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS MINDER 1.0.dll
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\refint\MESS MINDER 1.0.dll
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS MINDER 1.0.pdb
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS MINDER 1.0.genruntimeconfig.cache
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\ref\MESS MINDER 1.0.dll
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.HOME.resources
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.MEMBERS.resources
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.Resources.resources
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.ADDMEMBER.resources
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.REMOVEMEMBER.resources
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.PRODUCT.resources
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.PAYMENT.resources
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\bin\Debug\net6.0-windows\MESS MINDER 1.0.exe
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\bin\Debug\net6.0-windows\MESS MINDER 1.0.deps.json
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\bin\Debug\net6.0-windows\MESS MINDER 1.0.runtimeconfig.json
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\bin\Debug\net6.0-windows\MESS MINDER 1.0.dll
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\bin\Debug\net6.0-windows\MESS MINDER 1.0.pdb
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS MINDER 1.0.vbproj.AssemblyReference.cache
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.ADDMEMBER.resources
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.HOME.resources
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.LOGIN.resources
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.MEMBERS.resources
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.Resources.resources
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.PAYMENT.resources
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.PRODUCT.resources
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.REMOVEMEMBER.resources
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.SIGN_UP.resources
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS MINDER 1.0.vbproj.GenerateResource.cache
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS MINDER 1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS MINDER 1.0.AssemblyInfoInputs.cache
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS MINDER 1.0.AssemblyInfo.vb
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS MINDER 1.0.vbproj.CoreCompileInputs.cache
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS MINDER 1.0.dll
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\refint\MESS MINDER 1.0.dll
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS MINDER 1.0.pdb
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS MINDER 1.0.genruntimeconfig.cache
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\ref\MESS MINDER 1.0.dll
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.ADD_ITEMS.resources
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.MEMBERREPORT.resources
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.MESSREPORT.resources
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.MODIFY_ITEMS.resources
+C:\Users\shamb\Downloads\MESS-MINDER-main\MESS-MINDER-main\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.REPORT.resources
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.ADD_ITEMS.resources
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.MEMBERREPORT.resources
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.MESSREPORT.resources
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.MODIFY_ITEMS.resources
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS_MINDER_1._0.REPORT.resources
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rishi\OneDrive\Desktop\MESS MINDER 1.0\obj\Debug\net6.0-windows\MESS MINDER 1.0.vbproj.CopyComplete
+C:\Users\rishi\Source\Repos\MESS-MINDER-\bin\Debug\net6.0-windows\MESS MINDER 1.0.exe
+C:\Users\rishi\Source\Repos\MESS-MINDER-\bin\Debug\net6.0-windows\MESS MINDER 1.0.deps.json
+C:\Users\rishi\Source\Repos\MESS-MINDER-\bin\Debug\net6.0-windows\MESS MINDER 1.0.runtimeconfig.json
+C:\Users\rishi\Source\Repos\MESS-MINDER-\bin\Debug\net6.0-windows\MESS MINDER 1.0.dll
+C:\Users\rishi\Source\Repos\MESS-MINDER-\bin\Debug\net6.0-windows\MESS MINDER 1.0.pdb
+C:\Users\rishi\Source\Repos\MESS-MINDER-\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\rishi\Source\Repos\MESS-MINDER-\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\rishi\Source\Repos\MESS-MINDER-\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\rishi\Source\Repos\MESS-MINDER-\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\rishi\Source\Repos\MESS-MINDER-\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rishi\Source\Repos\MESS-MINDER-\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS MINDER 1.0.vbproj.AssemblyReference.cache
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS_MINDER_1._0.ADD_ITEMS.resources
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS_MINDER_1._0.ADDMEMBER.resources
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS_MINDER_1._0.HOME.resources
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS_MINDER_1._0.LOGIN.resources
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS_MINDER_1._0.MEMBERREPORT.resources
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS_MINDER_1._0.MEMBERS.resources
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS_MINDER_1._0.MESSREPORT.resources
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS_MINDER_1._0.MODIFY_ITEMS.resources
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS_MINDER_1._0.Resources.resources
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS_MINDER_1._0.PAYMENT.resources
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS_MINDER_1._0.PRODUCT.resources
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS_MINDER_1._0.REMOVEMEMBER.resources
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS_MINDER_1._0.REPORT.resources
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS MINDER 1.0.vbproj.GenerateResource.cache
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS MINDER 1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS MINDER 1.0.AssemblyInfoInputs.cache
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS MINDER 1.0.AssemblyInfo.vb
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS MINDER 1.0.vbproj.CoreCompileInputs.cache
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS MINDER 1.0.vbproj.CopyComplete
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS MINDER 1.0.dll
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\refint\MESS MINDER 1.0.dll
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS MINDER 1.0.pdb
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS MINDER 1.0.genruntimeconfig.cache
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\ref\MESS MINDER 1.0.dll
+C:\Users\rishi\Source\Repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS_MINDER_1._0.SIGNUP.resources
+C:\Users\rishi\source\repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS_MINDER_1._0.REMOVE_ITEMS.resources
+C:\Users\rishi\source\repos\MESS-MINDER-\obj\Debug\net6.0-windows\MESS_MINDER_1._0.UPDATE_PAYMENT.resources
+C:\Users\rishi\Desktop\MESS-MINDER--backend\bin\Debug\net6.0-windows\MESS MINDER 1.0.exe
+C:\Users\rishi\Desktop\MESS-MINDER--backend\bin\Debug\net6.0-windows\MESS MINDER 1.0.deps.json
+C:\Users\rishi\Desktop\MESS-MINDER--backend\bin\Debug\net6.0-windows\MESS MINDER 1.0.runtimeconfig.json
+C:\Users\rishi\Desktop\MESS-MINDER--backend\bin\Debug\net6.0-windows\MESS MINDER 1.0.dll
+C:\Users\rishi\Desktop\MESS-MINDER--backend\bin\Debug\net6.0-windows\MESS MINDER 1.0.pdb
+C:\Users\rishi\Desktop\MESS-MINDER--backend\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\rishi\Desktop\MESS-MINDER--backend\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\rishi\Desktop\MESS-MINDER--backend\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\rishi\Desktop\MESS-MINDER--backend\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\rishi\Desktop\MESS-MINDER--backend\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\rishi\Desktop\MESS-MINDER--backend\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\rishi\Desktop\MESS-MINDER--backend\bin\Debug\net6.0-windows\comerr64.dll
+C:\Users\rishi\Desktop\MESS-MINDER--backend\bin\Debug\net6.0-windows\gssapi64.dll
+C:\Users\rishi\Desktop\MESS-MINDER--backend\bin\Debug\net6.0-windows\k5sprt64.dll
+C:\Users\rishi\Desktop\MESS-MINDER--backend\bin\Debug\net6.0-windows\krb5_64.dll
+C:\Users\rishi\Desktop\MESS-MINDER--backend\bin\Debug\net6.0-windows\krbcc64.dll
+C:\Users\rishi\Desktop\MESS-MINDER--backend\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\rishi\Desktop\MESS-MINDER--backend\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\rishi\Desktop\MESS-MINDER--backend\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\rishi\Desktop\MESS-MINDER--backend\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\rishi\Desktop\MESS-MINDER--backend\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\rishi\Desktop\MESS-MINDER--backend\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rishi\Desktop\MESS-MINDER--backend\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS MINDER 1.0.vbproj.AssemblyReference.cache
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS_MINDER_1._0.ADD_ITEMS.resources
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS_MINDER_1._0.ADDMEMBER.resources
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS_MINDER_1._0.HOME.resources
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS_MINDER_1._0.LOGIN.resources
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS_MINDER_1._0.MEMBERREPORT.resources
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS_MINDER_1._0.Members.resources
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS_MINDER_1._0.MESSREPORT.resources
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS_MINDER_1._0.MODIFY_ITEMS.resources
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS_MINDER_1._0.Resources.resources
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS_MINDER_1._0.PAYMENT.resources
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS_MINDER_1._0.PRODUCT.resources
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS_MINDER_1._0.REMOVE_ITEMS.resources
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS_MINDER_1._0.REMOVEMEMBER.resources
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS_MINDER_1._0.REPORT.resources
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS_MINDER_1._0.SIGNUP.resources
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS_MINDER_1._0.UPDATE_PAYMENT.resources
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS MINDER 1.0.vbproj.GenerateResource.cache
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS MINDER 1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS MINDER 1.0.AssemblyInfoInputs.cache
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS MINDER 1.0.AssemblyInfo.vb
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS MINDER 1.0.vbproj.CoreCompileInputs.cache
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS MINDER 1.0.vbproj.CopyComplete
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS MINDER 1.0.dll
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\refint\MESS MINDER 1.0.dll
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS MINDER 1.0.pdb
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\MESS MINDER 1.0.genruntimeconfig.cache
+C:\Users\rishi\Desktop\MESS-MINDER--backend\obj\Debug\net6.0-windows\ref\MESS MINDER 1.0.dll

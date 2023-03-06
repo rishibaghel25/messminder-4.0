@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ADD ITEMS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADDMEMBER.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HOME.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LOGIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MEMBERREPORT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Members.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MESSREPORT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MODIFY ITEMS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PAYMENT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PRODUCT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="REMOVE ITEMS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="REMOVEMEMBER.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="REPORT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SIGN UP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UPDATE PAYMENT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
