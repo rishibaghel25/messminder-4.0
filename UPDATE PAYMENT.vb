@@ -43,12 +43,17 @@ Public Class UPDATE_PAYMENT
         Dim memberId As Integer = 1 'Replace with your code to retrieve member ID
         Dim t1 As String = TextBox1.Text
         Dim t2 As String = ComboBox1.Text
+        Dim t3 As String = ComboBox2.Text
+        Dim pay As String = TextBox2.Text
         Try
 
-            Dim insertQuery As String = "INSERT INTO payment ( paymentstatus, paymentdate) VALUES ( @paymentstatus, @paymentdate)"
+            Dim insertQuery As String = "INSERT INTO payment ( paymentstatus,PAY_AMT, paymentdate, method ) VALUES ( @paymentstatus,@PAY_AMT, @paymentdate, @method )"
             Dim command As New MySqlCommand(insertQuery, connection, transaction)
             command.Parameters.AddWithValue("@paymentstatus", t1)
             command.Parameters.AddWithValue("@paymentdate", t2)
+            command.Parameters.AddWithValue("@method", t3)
+            command.Parameters.AddWithValue("@PAY_AMT", pay)
+
             command.ExecuteNonQuery()
 
             transaction.Commit()
@@ -90,11 +95,31 @@ Public Class UPDATE_PAYMENT
     Private Sub UPDATE_PAYMENT_Load(sender As Object, e As EventArgs)
         ComboBox1.Items.Add("PAID")
         ComboBox1.Items.Add("UNPAID")
+        ComboBox2.Items.Add("CASH")
+        ComboBox2.Items.Add("QR")
     End Sub
 
     Private Sub UPDATE_PAYMENT_Load_1(sender As Object, e As EventArgs) Handles MyBase.Load
         ComboBox1.Items.Add("PAID")
         ComboBox1.Items.Add("UNPAID")
+        ComboBox2.Items.Add("CASH")
+        ComboBox2.Items.Add("QR")
+
+    End Sub
+
+    Private Sub ComboBox2_SelectedIndexChanged(sender As Object, e As EventArgs) Handles ComboBox2.SelectedIndexChanged
+
+    End Sub
+
+    Private Sub GroupBox1_Enter(sender As Object, e As EventArgs) Handles GroupBox1.Enter
+
+    End Sub
+
+    Private Sub Label5_Click(sender As Object, e As EventArgs) Handles Label5.Click
+
+    End Sub
+
+    Private Sub TextBox1_TextChanged(sender As Object, e As EventArgs) Handles TextBox1.TextChanged
 
     End Sub
 End Class
